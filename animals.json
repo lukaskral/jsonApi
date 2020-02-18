@@ -1,0 +1,6 @@
+{
+  "id": "animals",
+  "animals" : [
+    {"name": "zebra"}
+  ]
+}
